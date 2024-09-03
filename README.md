@@ -1,5 +1,3 @@
-# Internship-Project-Introduction
-
 # 👋 Hi, I'm Sahil Bhalekar
 
 **Location:** Powai, Mumbai, India  
@@ -11,8 +9,8 @@
 ## 🛠️ Technologies & Tools
 
 - **Languages:** JavaScript, Python, Java
-- **Frontend:** ReactJS, HTML, CSS
-- **Backend:** Spring Boot, Django, Node.js
+- **Frontend:** ReactJS, HTML, CSS, Bootstrap
+- **Backend:** Spring Boot, Node.js
 - **Database:** MySQL, MongoDB
 - **DevOps:** Docker, Git, GitHub
 
@@ -23,8 +21,8 @@
 ### [Project 1: Web Development with ReactJS and Spring Boot](#)
 A comprehensive web application developed using ReactJS for the frontend and Spring Boot for the backend, integrating RESTful APIs and a dynamic user interface.
 
-### [Project 2: API Development with Django](#)
-Created a robust and scalable REST API using Django, featuring CRUD operations, user authentication, and detailed documentation.
+### [Project 2: Vikas College E-Library Website](#)
+Developed a responsive and interactive website for "Vikas College E-Library" using HTML, CSS, and Bootstrap. The website features a clean and modern design, a user-friendly navigation system, and an online catalog for library resources.
 
 ---
 
@@ -39,7 +37,5 @@ Created a robust and scalable REST API using Django, featuring CRUD operations, 
 ## 📫 How to reach me
 
 - **GitHub:** [sahilbhalekar](https://github.com/sahilbhalekar)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com)
-- **Email:** your.email@example.com
-
----
+- **LinkedIn:** [Sahil Bhalekar](https://www.linkedin.com/in/sahilbhalekar/)
+- **Email:** sahilbhalekar6@gmail.com
